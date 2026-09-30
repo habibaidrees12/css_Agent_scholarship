@@ -1,0 +1,36 @@
+{
+  "notes": "Initial CSC discovery settings. Country is China. Cities, universities, and departments are not limited to one place. Research areas are the broad CS/IT profile, not Software Engineering alone. Use mode any, one, or multiple for cities, universities, and research areas. Mode any for cities means every city can match. Do not treat a city name inside a university name as a verified city.",
+  "country": {
+    "mode": "one",
+    "countries": ["China"]
+  },
+  "cities": {
+    "mode": "any",
+    "cities": []
+  },
+  "universities": {
+    "mode": "any",
+    "universities": []
+  },
+  "minimum_research_confidence": "medium",
+  "research_areas": {
+    "mode": "multiple",
+    "areas": [
+      "Computer Science",
+      "Software Engineering",
+      "Information Technology",
+      "Data Science",
+      "Data Analytics",
+      "Information Systems",
+      "Database Systems",
+      "Software Systems",
+      "Web/Mobile Application Development",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Natural Language Processing",
+      "Human-Computer Interaction",
+      "Healthcare IT / Health Informatics",
+      "Cloud Computing"
+    ]
+  }
+}

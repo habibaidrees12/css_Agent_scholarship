@@ -1,0 +1,35 @@
+[
+  {
+    "professor": "Bin Cui",
+    "university": "Peking University",
+    "email": null,
+    "match_score": 65,
+    "email_status": "draft_ready",
+    "date_contacted": null,
+    "follow_up_date": null,
+    "response_status": null,
+    "notes": "Draft is waiting for explicit approval. It has not been sent."
+  },
+  {
+    "professor": "Zhihong Deng",
+    "university": "Beijing Institute of Technology",
+    "email": "dzh_deng@bit.edu.cn",
+    "match_score": 35,
+    "email_status": "draft_ready",
+    "date_contacted": null,
+    "follow_up_date": null,
+    "response_status": null,
+    "notes": "Draft is waiting for explicit approval. It has not been sent."
+  },
+  {
+    "professor": "Zhi‐Hong Deng",
+    "university": "Peking University",
+    "email": "zhdeng@pku.edu.cn",
+    "match_score": 35,
+    "email_status": "draft_ready",
+    "date_contacted": null,
+    "follow_up_date": null,
+    "response_status": null,
+    "notes": "Draft is waiting for explicit approval. It has not been sent."
+  }
+]

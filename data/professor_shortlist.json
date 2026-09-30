@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Bin Cui",
+    "university": "Peking University",
+    "country": "China",
+    "city": null,
+    "department": "北京大学计算机学院",
+    "public_email": null,
+    "official_profile_url": "https://cs.pku.edu.cn/info/1155/1815.htm",
+    "official_department_url": null,
+    "official_source": "official_university_domain",
+    "research_interests": [
+      "Advanced Graph Neural Networks",
+      "Data Management and Algorithms",
+      "Recommender Systems and Techniques",
+      "Caching and Content Delivery",
+      "Advanced Database Systems and Queries",
+      "Computer science",
+      "Artificial intelligence",
+      "Algorithm",
+      "Data mining",
+      "Mathematics"
+    ],
+    "papers": [],
+    "matched_areas": [
+      "Artificial Intelligence",
+      "Database Systems"
+    ],
+    "match_score": 65,
+    "research_confidence": "high",
+    "evidence": [
+      "\"Artificial intelligence\" found in research interests (https://openalex.org/A5062357883)",
+      "\"Advanced Database Systems and Queries\" found in research interests (https://openalex.org/A5062357883)"
+    ],
+    "recent_research": [],
+    "reasons": [
+      "Passes your filters. Research overlap score: 65 out of 100. Confidence: high. Matched areas: Artificial Intelligence, Database Systems."
+    ],
+    "verification_status": "officially_verified",
+    "verification_notes": "Identity signals: name, university, research.",
+    "verified_at": "2026-09-29T16:31:54+00:00",
+    "source_urls": [
+      "https://openalex.org/A5062357883",
+      "https://cs.pku.edu.cn/info/1155/1815.htm"
+    ]
+  },
+  {
+    "name": "Zhihong Deng",
+    "university": "Beijing Institute of Technology",
+    "country": "China",
+    "city": null,
+    "department": "School of Automation",
+    "public_email": "dzh_deng@bit.edu.cn",
+    "official_profile_url": "https://pure.bit.edu.cn/en/persons/zhihong-deng/",
+    "official_department_url": null,
+    "official_source": "official_professor_or_lab_page",
+    "research_interests": [
+      "Inertial Sensor and Navigation",
+      "Target Tracking and Data Fusion in Sensor Networks",
+      "Topic Modeling",
+      "Robotics and Sensor-Based Localization",
+      "Indoor and Outdoor Localization Technologies",
+      "Computer science",
+      "Artificial intelligence",
+      "Mathematics",
+      "Physics",
+      "Quantum mechanics"
+    ],
+    "papers": [],
+    "matched_areas": [
+      "Artificial Intelligence"
+    ],
+    "match_score": 35,
+    "research_confidence": "medium",
+    "evidence": [
+      "\"Artificial intelligence\" found in research interests (https://openalex.org/A5060171279)"
+    ],
+    "recent_research": [],
+    "reasons": [
+      "Passes your filters. Research overlap score: 35 out of 100. Confidence: medium. Matched areas: Artificial Intelligence."
+    ],
+    "verification_status": "officially_verified",
+    "verification_notes": "Identity signals: name, university, research.",
+    "verified_at": "2026-09-29T16:32:31+00:00",
+    "source_urls": [
+      "https://openalex.org/A5060171279",
+      "https://pure.bit.edu.cn/en/persons/zhihong-deng/"
+    ]
+  },
+  {
+    "name": "Zhi‐Hong Deng",
+    "university": "Peking University",
+    "country": "China",
+    "city": null,
+    "department": "北京大学信息科学技术学院",
+    "public_email": "zhdeng@pku.edu.cn",
+    "official_profile_url": "http://eecs.pku.edu.cn/xxkxjsxy/info/1459/9477.htm",
+    "official_department_url": null,
+    "official_source": "official_university_domain",
+    "research_interests": [
+      "Data Mining Algorithms and Applications",
+      "Rough Sets and Fuzzy Logic",
+      "Data Management and Algorithms",
+      "Web Data Mining and Analysis",
+      "Recommender Systems and Techniques",
+      "Computer science",
+      "Information retrieval",
+      "Data mining",
+      "Artificial intelligence",
+      "Mathematics"
+    ],
+    "papers": [],
+    "matched_areas": [
+      "Artificial Intelligence"
+    ],
+    "match_score": 35,
+    "research_confidence": "medium",
+    "evidence": [
+      "\"Artificial intelligence\" found in research interests (https://openalex.org/A5101810080)"
+    ],
+    "recent_research": [],
+    "reasons": [
+      "Passes your filters. Research overlap score: 35 out of 100. Confidence: medium. Matched areas: Artificial Intelligence."
+    ],
+    "verification_status": "officially_verified",
+    "verification_notes": "Identity signals: name, university, research.",
+    "verified_at": "2026-09-29T16:32:46+00:00",
+    "source_urls": [
+      "https://openalex.org/A5101810080",
+      "http://eecs.pku.edu.cn/xxkxjsxy/info/1459/9477.htm"
+    ]
+  }
+]

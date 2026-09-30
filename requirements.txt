@@ -1,0 +1,8 @@
+# The starter runs with the Python standard library.
+# Install this when you want app/config.py to read a local .env file.
+python-dotenv>=1.0.0
+# Local dashboard only. The research agent does not import it.
+streamlit>=1.40.0
+# Gmail OAuth. The agent never asks for a Gmail password.
+google-api-python-client>=2.140.0
+google-auth-oauthlib>=1.2.0

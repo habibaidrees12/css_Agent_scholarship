@@ -1,0 +1,50 @@
+[
+  {
+    "professor_name": "Bin Cui",
+    "university": "Peking University",
+    "recipient_email": null,
+    "subject": "CSC scholarship inquiry: Advanced Database Systems and Queries at Peking University",
+    "body": "Dear Professor Bin Cui,\n\nI am writing to you at Peking University, 北京大学计算机学院. I am interested in applying for the Chinese Government Scholarship (CSC), and I would like to ask whether you would be willing to supervise or support my application if a proposed project aligns with your group's work.\n\nI am completing a BS Software Engineering at Jinnah University for Women (JUW), with expected graduation in 2026. The overlap I can describe from your stored evidence is Advanced Database Systems and Queries and Data Management and Algorithms. My software engineering coursework includes databases and data handling, which is the part of this work I can speak about directly.\n\nMy final-year project, MedScribeAI, is relevant here only as software that stores structured records from speech and clinical text. It uses Python, FastAPI, React Native, TypeScript, and a database. I am not presenting it as medical research or as a claim that I am an artificial-intelligence researcher.\n\nI can send my curriculum vitae and transcripts if that would be useful.\n\nSincerely,",
+    "matched_research_areas": [
+      "Advanced Database Systems and Queries",
+      "Data Management and Algorithms"
+    ],
+    "evidence_urls": [
+      "https://cs.pku.edu.cn/info/1155/1815.htm",
+      "https://openalex.org/A5062357883"
+    ],
+    "draft_status": "draft"
+  },
+  {
+    "professor_name": "Zhihong Deng",
+    "university": "Beijing Institute of Technology",
+    "recipient_email": "dzh_deng@bit.edu.cn",
+    "subject": "CSC scholarship inquiry: Target Tracking and Data Fusion in Sensor Networks at Beijing Institute of Technology",
+    "body": "Dear Professor Zhihong Deng,\n\nI am writing to you at Beijing Institute of Technology, School of Automation. I am interested in applying for the Chinese Government Scholarship (CSC), and I would like to ask whether you would be willing to supervise or support my application if a proposed project aligns with your group's work.\n\nI am completing a BS Software Engineering at Jinnah University for Women (JUW), with expected graduation in 2026. Your stored research interests include Target Tracking and Data Fusion in Sensor Networks and Inertial Sensor and Navigation. My degree is in software engineering, including data-handling coursework. I am not claiming experience in navigation, robotics, or sensor systems.\n\nI can send my curriculum vitae and transcripts if that would be useful.\n\nSincerely,",
+    "matched_research_areas": [
+      "Target Tracking and Data Fusion in Sensor Networks",
+      "Inertial Sensor and Navigation"
+    ],
+    "evidence_urls": [
+      "https://pure.bit.edu.cn/en/persons/zhihong-deng/",
+      "https://openalex.org/A5060171279"
+    ],
+    "draft_status": "draft"
+  },
+  {
+    "professor_name": "Zhi‐Hong Deng",
+    "university": "Peking University",
+    "recipient_email": "zhdeng@pku.edu.cn",
+    "subject": "CSC scholarship inquiry: Data Mining Algorithms and Applications at Peking University",
+    "body": "Dear Professor Zhi‐Hong Deng,\n\nI am writing to you at Peking University, 北京大学信息科学技术学院. I am interested in applying for the Chinese Government Scholarship (CSC), and I would like to ask whether you would be willing to supervise or support my application if a proposed project aligns with your group's work.\n\nI am completing a BS Software Engineering at Jinnah University for Women (JUW), with expected graduation in 2026. The overlap I can describe from your stored record is Data Mining Algorithms and Applications and Data Management and Algorithms. My background is software engineering with data-handling experience. I am not claiming a research record in data mining or information retrieval.\n\nMy final-year project, MedScribeAI, is relevant only as project experience with text and structured data. It is a software project using Python, FastAPI, React Native, TypeScript, and a database. I am not presenting it as data-mining research or as medical expertise.\n\nI can send my curriculum vitae and transcripts if that would be useful.\n\nSincerely,",
+    "matched_research_areas": [
+      "Data Mining Algorithms and Applications",
+      "Data Management and Algorithms"
+    ],
+    "evidence_urls": [
+      "http://eecs.pku.edu.cn/xxkxjsxy/info/1459/9477.htm",
+      "https://openalex.org/A5101810080"
+    ],
+    "draft_status": "draft"
+  }
+]

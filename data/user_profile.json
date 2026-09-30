@@ -1,0 +1,319 @@
+{
+  "schema_version": 1,
+  "notes": "BS Software Engineering student at Jinnah University for Women (JUW), Pakistan, with expected graduation in 2026. The academic scope stays broad across computer science, software engineering, information technology, data, and related areas. MedScribeAI is a software, AI, data, and healthcare-IT final year project. AI and NLP are relevant because of that project and are not the highest priorities. Priority describes matching relevance, not a claim of advanced research expertise. CGPA, language-test scores, publications, awards, and job titles that were not provided are left blank.",
+  "personal": {
+    "full_name": "",
+    "email": "",
+    "phone": "",
+    "nationality": ""
+  },
+  "education": [
+    {
+      "degree": "BS Software Engineering",
+      "field_of_study": "Software Engineering",
+      "university": "Jinnah University for Women (JUW)",
+      "city": "",
+      "country": "Pakistan",
+      "graduation_year": 2026,
+      "gpa": null,
+      "notes": "Expected graduation in 2026. CGPA was not provided."
+    }
+  ],
+  "technical_skills": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "React Native",
+    "TypeScript",
+    "FastAPI",
+    "MySQL",
+    "Database Management",
+    "Data handling",
+    "Git/GitHub",
+    "Figma",
+    "Basic Machine Learning / AI concepts",
+    "Data-related work",
+    "Software Engineering",
+    "Object-Oriented Programming",
+    "Data Structures and Algorithms",
+    "Web Development",
+    "Mobile Application Development"
+  ],
+  "projects": [
+    {
+      "title": "MedScribeAI",
+      "description": "Final year project. AI-assisted clinical documentation software involving Urdu-English speech/transcription, medical text processing, structured clinical documentation, and healthcare software. Treat this as a software, AI, data, and healthcare-IT project, not an AI-only project.",
+      "technologies": [
+        "Python",
+        "React Native",
+        "TypeScript",
+        "FastAPI",
+        "Databases"
+      ],
+      "year": null,
+      "url": ""
+    },
+    {
+      "title": "Web and front-end work",
+      "description": "Web and front-end related work. A specific product name, employer, and dates were not provided.",
+      "technologies": [],
+      "year": null,
+      "url": ""
+    },
+    {
+      "title": "Database-related academic work",
+      "description": "Academic work involving databases. A course name, project title, and dates were not provided.",
+      "technologies": [],
+      "year": null,
+      "url": ""
+    },
+    {
+      "title": "Data entry and data handling",
+      "description": "Experience with data entry and data handling. Employer, tools, and dates were not provided.",
+      "technologies": [],
+      "year": null,
+      "url": ""
+    },
+    {
+      "title": "Graphic and UI design",
+      "description": "Graphic and UI design experience. Figma is a listed design skill. A specific product name and dates were not provided.",
+      "technologies": [
+        "Figma"
+      ],
+      "year": null,
+      "url": ""
+    }
+  ],
+  "internships": [
+    {
+      "organization": "",
+      "role": "",
+      "description": "MERN-related internship experience. The organization, job title, and dates were not provided.",
+      "start_year": null,
+      "end_year": null
+    },
+    {
+      "organization": "10 Pearls (10P Shine)",
+      "role": "",
+      "description": "Internship. The job title and dates were not provided.",
+      "start_year": null,
+      "end_year": null
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google course/certification",
+      "issuer": "Google",
+      "year": null
+    },
+    {
+      "name": "Graphic design training",
+      "issuer": "JDC",
+      "year": null
+    },
+    {
+      "name": "Front-end/web-related learning",
+      "issuer": "",
+      "year": null
+    }
+  ],
+  "activities": [
+    {
+      "name": "ITCN volunteering",
+      "organization": "ITCN",
+      "description": "Volunteering. The role and dates were not provided.",
+      "year": null
+    },
+    {
+      "name": "GDGOC JUW activities",
+      "organization": "GDGOC JUW",
+      "description": "Student activities. The role and dates were not provided.",
+      "year": null
+    }
+  ],
+  "research_interests": [
+    {
+      "name": "Computer Science",
+      "priority": "high",
+      "keywords": [],
+      "notes": "Broad related area included for matching. This is not a separate degree."
+    },
+    {
+      "name": "Software Engineering",
+      "priority": "high",
+      "keywords": [
+        "software development",
+        "object-oriented programming"
+      ],
+      "notes": "Bachelor's degree field, including software development and the final year project."
+    },
+    {
+      "name": "Information Technology",
+      "priority": "high",
+      "keywords": [],
+      "notes": "Broad related area included for matching."
+    },
+    {
+      "name": "Data Science",
+      "priority": "high",
+      "keywords": [],
+      "notes": "Relevant through data handling and the final year project. Advanced data-science research expertise is not claimed."
+    },
+    {
+      "name": "Data Analytics",
+      "priority": "high",
+      "keywords": [],
+      "notes": "Relevant through data-related work. Advanced analytics research expertise is not claimed."
+    },
+    {
+      "name": "Artificial Intelligence",
+      "priority": "medium",
+      "keywords": [],
+      "notes": "Basic machine learning and AI concepts, plus AI-assisted features in MedScribeAI. This is not the primary identity, and advanced AI research expertise is not claimed."
+    },
+    {
+      "name": "Machine Learning",
+      "priority": "medium",
+      "keywords": [],
+      "notes": "Basic concepts, studied and applied at a beginner level in project work. Advanced expertise is not claimed."
+    },
+    {
+      "name": "Natural Language Processing",
+      "priority": "medium",
+      "keywords": [],
+      "notes": "MedScribeAI includes Urdu-English speech/transcription and medical text processing. This is project exposure, not an NLP-only focus, and it is not a top priority."
+    },
+    {
+      "name": "Information Systems",
+      "priority": "high",
+      "keywords": [],
+      "notes": "Relevant software and information-systems area."
+    },
+    {
+      "name": "Database Systems",
+      "priority": "high",
+      "keywords": [
+        "MySQL",
+        "database management"
+      ],
+      "notes": "MySQL, database management, and database-related academic work."
+    },
+    {
+      "name": "Software Systems",
+      "priority": "high",
+      "keywords": [],
+      "notes": "Related software area included with the software engineering background."
+    },
+    {
+      "name": "Web/Mobile Application Development",
+      "priority": "high",
+      "keywords": [
+        "React Native",
+        "web development",
+        "mobile application development"
+      ],
+      "notes": "Web, front-end, React Native, and mobile application work."
+    },
+    {
+      "name": "Cloud Computing",
+      "priority": "low",
+      "keywords": [],
+      "notes": "Included as a related area. No specific cloud platform experience was provided."
+    },
+    {
+      "name": "Human-Computer Interaction",
+      "priority": "medium",
+      "keywords": [
+        "Figma",
+        "UI design"
+      ],
+      "notes": "Related to graphic design, UI work, and Figma. HCI research expertise is not claimed."
+    },
+    {
+      "name": "Healthcare IT / Health Informatics",
+      "priority": "medium",
+      "keywords": [],
+      "notes": "MedScribeAI is healthcare software. This is one application domain, not the whole profile."
+    }
+  ],
+  "preferred_fields": [
+    "Computer Science",
+    "Software Engineering",
+    "Information Technology",
+    "Data Science",
+    "Data Analytics",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Information Systems",
+    "Database Systems",
+    "Software Systems",
+    "Web/Mobile Application Development",
+    "Cloud Computing",
+    "Human-Computer Interaction",
+    "Healthcare IT / Health Informatics"
+  ],
+  "priority_fields": [
+    "Software Engineering",
+    "Computer Science",
+    "Information Technology",
+    "Data Science",
+    "Data Analytics",
+    "Information Systems",
+    "Database Systems",
+    "Software Systems",
+    "Web/Mobile Application Development"
+  ],
+  "preferred_countries": {
+    "mode": "any",
+    "countries": []
+  },
+  "preferred_cities": {
+    "mode": "any",
+    "cities": []
+  },
+  "preferred_universities": {
+    "mode": "any",
+    "universities": []
+  },
+  "department_filter": {
+    "mode": "any",
+    "departments": []
+  },
+  "field_filter": {
+    "mode": "any",
+    "fields": []
+  },
+  "scholarship_targets": [
+    {
+      "id": "csc",
+      "name": "Chinese Government Scholarship (CSC)",
+      "active": true,
+      "degree_level": "master",
+      "funding": "fully_funded",
+      "countries": ["China"],
+      "notes": "Initial focus. This country describes the scholarship. It does not by itself limit your city or country filters."
+    },
+    {
+      "id": "gks",
+      "name": "Global Korea Scholarship (GKS)",
+      "active": false,
+      "degree_level": "master",
+      "funding": "fully_funded",
+      "countries": ["South Korea"],
+      "notes": "Reserved for a later version. Set active to true when you want to use it."
+    },
+    {
+      "id": "erasmus",
+      "name": "Erasmus Mundus",
+      "active": false,
+      "degree_level": "master",
+      "funding": "fully_funded",
+      "countries": [],
+      "notes": "Reserved for a later version. Add host countries when you choose a program."
+    }
+  ]
+}

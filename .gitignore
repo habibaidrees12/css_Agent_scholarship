@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+secrets/
+client_secret*.json
+gmail_token.json
+gmail_account.json
+token.json
+credentials.json
+.idea/
+.vscode/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/

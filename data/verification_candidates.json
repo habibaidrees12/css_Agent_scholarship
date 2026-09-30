@@ -1,0 +1,1164 @@
+{
+  "generated_at": "2026-09-28T10:39:46+00:00",
+  "purpose": "Review file for the official-page pilot. The professor database was not updated.",
+  "max_candidates_per_run": 5,
+  "max_urls_per_candidate": 2,
+  "request_timeout_seconds": 12,
+  "request_delay_seconds": 1.5,
+  "emails_sent": false,
+  "professors_json": "E:\\CSC-Professor-Agent\\csc-professor-agent\\data\\professors.json",
+  "professors_json_sha256_before": "67f6c9101516c1ded324343046a19cf4f39393d05d0b84b87308f48382c8cef1",
+  "professors_json_modified": false,
+  "candidates": [
+    {
+      "candidate_name": "Dinghua Li",
+      "candidate_university": "Beijing Institute of Technology",
+      "department": null,
+      "research_areas": [
+        "Flame retardant materials and properties",
+        "Synthesis and properties of polymers",
+        "Genomics and Phylogenetic Studies",
+        "Silicone and Siloxane Chemistry",
+        "biodegradable polymer synthesis and properties",
+        "Chemistry",
+        "Materials science",
+        "Composite material",
+        "Engineering",
+        "Organic chemistry"
+      ],
+      "search_queries": [
+        "\"Dinghua Li\" \"Beijing Institute of Technology\" professor",
+        "\"Dinghua Li\" \"Beijing Institute of Technology\" site:edu.cn",
+        "\"Dinghua Li\" \"Beijing Institute of Technology\" site:ac.cn",
+        "\"Dinghua Li\" \"Beijing Institute of Technology\" \"Flame retardant materials and properties\""
+      ],
+      "search_results": [
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" professor",
+          "title": "如何在中国大陆用「合法」的方式观看到youtube上面的「有价值」的视频？ - 知乎",
+          "url": "https://www.zhihu.com/question/1903231775980913051",
+          "snippet": "只要你 配置点击代理。 当你下抖音、B站的素材时，它知道这是国内的，直接走你家正常的宽带大马路，速度拉满，绝不绕远路。 当你扔给它一个 YouTube 链接时，它会自动识别，切换到合法的通道去帮你把视频“捎带”回来。 你不需要当网管，也不需要懂什么 HTTP 或者 SOCKS5 协议。你平时雷打不动 ...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" professor",
+          "title": "YouTube TV Help",
+          "url": "https://support.google.com/youtubetv/?hl=en",
+          "snippet": "Official YouTube TV Help Center where you can find tips and tutorials on using YouTube TV and other answers to frequently asked questions.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" professor",
+          "title": "Ausgeblendeten Kanal wieder einblenden - YouTube-Hilfe",
+          "url": "https://support.google.com/youtube/answer/2972692?hl=de",
+          "snippet": "Möglicherweise siehst du auf der Seite „Inhalte“ den Hinweis „Dein YouTube-Kanal verfügt über Inhalte, wurde aber deaktiviert.“ Das passiert, wenn dein Kanal ausgeblendet ist und deine Videos und ande",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" professor",
+          "title": "YouTube公司 - 知乎",
+          "url": "https://www.zhihu.com/topic/19550532",
+          "snippet": "YouTube，全球最大的视频分享网站，早期公司总部位于加利福尼亚州的圣布里诺。公司由华裔美籍华人陈士骏等人创立并于2005年2月15日注册，网站的口号为“Broadcast Yourself”（表现你自己），网站的名称和标志皆是自早期电视所使用的阴极射线管发想而成。2006年11月，Google公司以16.5亿美元收购了 ...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" professor",
+          "title": "איך פותרים בעיות בהפעלת סרטוני YouTube",
+          "url": "https://support.google.com/youtube/answer/3037019?hl=iw",
+          "snippet": "כדי להגן על קהילת YouTube, ייתכן שהגישה של משתמשים שלא מחוברים לחשבון תהיה מוגבלת לסרטונים ב-YouTube. ההגבלה הזו עשויה לחול כשהם ינסו להוריד אותם לשימוש במצב אופליין או לצפות בתכנים מסוימים שבהם מופיעים קטינים. אם אתם חוקרים ...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" site:edu.cn",
+          "title": "تسجيل الدخول إلى Gmail",
+          "url": "https://support.google.com/mail/answer/8494?hl=ar&co=GENIE.Platform%3DDesktop",
+          "snippet": "تسجيل الدخول إلى Gmail لفتح Gmail، يمكنك تسجيل الدخول من جهاز كمبيوتر أو إضافة حسابك إلى تطبيق Gmail على هاتفك أو جهازك اللوحي. بعد تسجيل الدخول، افتح بريدك الوارد للاطّلاع على الرسائل الإلكترونية.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" site:edu.cn",
+          "title": "Accedere a Gmail - Computer - Guida di Gmail",
+          "url": "https://support.google.com/mail/answer/8494?hl=it&co=GENIE.Platform%3DDesktop",
+          "snippet": "Accedere a Gmail Per aprire Gmail, puoi accedere da un computer o aggiungere il tuo account all'app Gmail sul tuo telefono o tablet. Dopo aver eseguito l'accesso, apri la Posta in arrivo per controllare la posta.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" site:edu.cn",
+          "title": "Inicie sessão no Gmail",
+          "url": "https://support.google.com/mail/answer/8494?hl=pt&co=GENIE.Platform%3DDesktop",
+          "snippet": "Inicie sessão no Gmail Para abrir o Gmail, pode iniciar sessão a partir de um computador ou adicionar a sua conta à aplicação Gmail no telemóvel ou no tablet. Após iniciar sessão, verifique o correio ao abrir a caixa de entrada.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" site:edu.cn",
+          "title": "Logga in på Gmail - Dator - Gmail Hjälp - Google Help",
+          "url": "https://support.google.com/mail/answer/8494?hl=sv&co=GENIE.Platform%3DDesktop",
+          "snippet": "Logga in på Gmail Öppna Gmail genom att logga in på datorn eller lägga till kontot i Gmail-appen på telefonen eller surfplattan. När du har loggat in kan du öppna inkorgen och läsa e-posten.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" site:edu.cn",
+          "title": "In Gmail anmelden",
+          "url": "https://support.google.com/mail/answer/8494?hl=de&co=GENIE.Platform%3DDesktop",
+          "snippet": "In Gmail anmelden Um Gmail zu öffnen, können Sie sich über einen Computer anmelden oder Ihr Konto in der Gmail App auf Ihrem Smartphone oder Tablet hinzufügen. Melden Sie sich an und öffnen Sie den Posteingang, um Ihre E-Mails zu prüfen.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" site:ac.cn",
+          "title": "Free Daily Horoscopes - Astrology Answers",
+          "url": "https://www.astrologyanswers.com/horoscopes/",
+          "snippet": "Read your sign's free horoscope today! Use these expert astrology predictions for your day, week, and month. What does your daily horoscope have in store...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" site:ac.cn",
+          "title": "Read Your Daily Horoscope! | Astrology Answers",
+          "url": "https://www.astrologyanswers.com/",
+          "snippet": "Read Astrology Answers' online daily horoscopes for your zodiac sign, Tarot readings, article content, Chinese astrology, numerology, & more!",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" site:ac.cn",
+          "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
+          "url": "https://www.zhihu.com/question/2084432664535241222",
+          "snippet": "就 Gemini 3.1 pro 现在还是 gemini-3.1-pro-preview ，这种情况是真的少见，Flash 疯狂迭代，Pro 默默无闻，谷歌其实也是怕，Flash 做不好可以当作非旗舰，比不过心理能接受，但是如果下一代 Pro 还追不上 OA ，那就真的没办法和市场交代了。",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" site:ac.cn",
+          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？ - 知乎",
+          "url": "https://www.zhihu.com/question/2047324900080051711",
+          "snippet": "鉴定为没用过真正的豆包. 试了一次都感觉震惊，Gemini至少不会胡说八道，豆包ai幻觉和胡编乱造的程度高的吓人. Gemini蠢但有逻辑，是合理的愚蠢，豆包完全就是42号混泥土拌意大利面的水平.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Dinghua Li\" \"Beijing Institute of Technology\" site:ac.cn",
+          "title": "NLP 大模型与 CV 大模型的 “大”：同源而殊途的技术范式-云社区-华为云",
+          "url": "https://bbs.huaweicloud.com/blogs/455174",
+          "snippet": "随着多模态大模型（如 GPT-4V、Gemini）的发展，两者正走向技术融合 —— 例如，用语言模型的逻辑推理能力增强视觉理解，用视觉模型的空间表征能力补全语言的具象化缺失，最终共同推动 AI 从 “单一模态智能” 向 “通用智能” 演进。",
+          "engine": "bing-rss"
+        }
+      ],
+      "search_errors": [
+        "duckduckgo-html returned no result links (HTTP 202). bing-rss connection error: _ssl.c:983: The handshake operation timed out."
+      ],
+      "official_candidate_urls": [],
+      "rejected_urls": [
+        {
+          "url": "https://www.zhihu.com/question/1903231775980913051",
+          "reason": "third-party host zhihu.com"
+        },
+        {
+          "url": "https://support.google.com/youtubetv/?hl=en",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/youtube/answer/2972692?hl=de",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://www.zhihu.com/topic/19550532",
+          "reason": "third-party host zhihu.com"
+        },
+        {
+          "url": "https://support.google.com/youtube/answer/3037019?hl=iw",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/mail/answer/8494?hl=ar&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/mail/answer/8494?hl=it&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/mail/answer/8494?hl=pt&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/mail/answer/8494?hl=sv&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/mail/answer/8494?hl=de&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://www.astrologyanswers.com/horoscopes/",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://www.astrologyanswers.com/",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://www.zhihu.com/question/2084432664535241222",
+          "reason": "third-party host zhihu.com"
+        },
+        {
+          "url": "https://www.zhihu.com/question/2047324900080051711",
+          "reason": "third-party host zhihu.com"
+        },
+        {
+          "url": "https://bbs.huaweicloud.com/blogs/455174",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        }
+      ],
+      "fetches": [],
+      "identity_match": {
+        "accepted": false,
+        "signals": [],
+        "notes": "",
+        "verification_status": "unverified"
+      },
+      "verification_decision": "no_official_url",
+      "source_urls": [
+        "https://openalex.org/A5070418647"
+      ],
+      "errors": [
+        "duckduckgo-html returned no result links (HTTP 202). bing-rss connection error: _ssl.c:983: The handshake operation timed out."
+      ]
+    },
+    {
+      "candidate_name": "Bin Cui",
+      "candidate_university": "Peking University",
+      "department": null,
+      "research_areas": [
+        "Advanced Graph Neural Networks",
+        "Data Management and Algorithms",
+        "Recommender Systems and Techniques",
+        "Caching and Content Delivery",
+        "Advanced Database Systems and Queries",
+        "Computer science",
+        "Artificial intelligence",
+        "Algorithm",
+        "Data mining",
+        "Mathematics"
+      ],
+      "search_queries": [
+        "\"Bin Cui\" \"Peking University\" professor",
+        "\"Bin Cui\" \"Peking University\" site:edu.cn",
+        "\"Bin Cui\" \"Peking University\" site:ac.cn",
+        "\"Bin Cui\" \"Peking University\" \"Advanced Graph Neural Networks\""
+      ],
+      "search_results": [
+        {
+          "query": "\"Bin Cui\" \"Peking University\" professor",
+          "title": "ChatGPT - Ikigai - OpenAI",
+          "url": "https://chat.openai.com/g/g-H9Whb8TFS-ikigai?via=aiinsighthub",
+          "snippet": "Your guide to finding balance in life between purpose and vocation. Start by telling me what you'd like to work on.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" professor",
+          "title": "android.chat.openai.com",
+          "url": "https://android.chat.openai.com/cdn-cgi/trace",
+          "snippet": "fl=1025f83 h=android.chat.openai.com ip=40.77.167.71 ts=1790549369.000 visit_scheme=https uag=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2 ...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" professor",
+          "title": "ios.chat.openai.com",
+          "url": "https://ios.chat.openai.com/cdn-cgi/trace",
+          "snippet": "fl=1290f62 h=ios.chat.openai.com ip=52.167.144.233 ts=1790586232.000 visit_scheme=https uag=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0 ...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" site:edu.cn",
+          "title": "Bienvenue dans les logiciels et pilotes HP - HP Customer Support",
+          "url": "https://support.hp.com/fr-fr/drivers",
+          "snippet": "Téléchargez les derniers pilotes, logiciels, micrologiciels et diagnostics pour vos produits HP sur le site officiel de l'assistance HP.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" site:edu.cn",
+          "title": "Official HP® Laptop & Desktop Computer Support",
+          "url": "https://support.hp.com/us-en/computer",
+          "snippet": "Find HP laptop and desktop support and customer service options including driver downloads, diagnostic tools, warranty check and troubleshooting info.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" site:edu.cn",
+          "title": "Oficjalne centrum pobierania sterowników i oprogramowania HP® | HP® Support",
+          "url": "https://support.hp.com/pl-pl/drivers",
+          "snippet": "Pobierz najnowsze sterowniki, oprogramowanie i narzędzia diagnostyczne dla produktów HP z oficjalnej strony wsparcia technicznego HP.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" site:edu.cn",
+          "title": "Bienvenue dans les logiciels et pilotes HP - HP Customer Support",
+          "url": "https://support.hp.com/fr-fr/drivers/printers",
+          "snippet": "Téléchargez les derniers pilotes, logiciels, micrologiciels et diagnostics pour vos imprimantes HP sur le site officiel de l'assistance HP.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" site:edu.cn",
+          "title": "HP Support Assistant",
+          "url": "https://support.hp.com/fr-fr/help/hp-support-assistant",
+          "snippet": "Download HP Support Assistant, your all-in-one support solution. Featuring automated fixes, personalized support and automatic updates, try HP Support Assistant today.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" site:ac.cn",
+          "title": "A Google Chrome letöltése és telepítése",
+          "url": "https://support.google.com/chrome/answer/95346?hl=hu&co=GENIE.Platform%3DDesktop",
+          "snippet": "A Chrome első indításakor el kell olvasnia és el kell fogadnia a Google Általános Szerződési Feltételeit. Tipp: Annak érdekében, hogy a Chrome naprakész maradjon, a rendszer hozzáadja a böngészőt az Ön csomagkezelőjéhez. Ha biztonsági frissítések állnak rendelkezésre, a Chrome értesíti Önt.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" site:ac.cn",
+          "title": "Fazer o download e instalar o Google Chrome",
+          "url": "https://support.google.com/chrome/answer/95346?hl=pt-BR&co=GENIE.Platform%3DDesktop",
+          "snippet": "Você pode baixar e instalar o navegador da Web Chrome sem custos financeiros e usá-lo para navegar na Web. Conferir os requisitos do sistema",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" site:ac.cn",
+          "title": "Télécharger et installer Google Chrome",
+          "url": "https://support.google.com/chrome/answer/95346?hl=fr&co=GENIE.Platform%3DDesktop",
+          "snippet": "Installer Chrome hors connexion Si vous rencontrez des problèmes lors du téléchargement de Chrome sur votre ordinateur Windows, utilisez le lien alternatif pour télécharger Chrome sur un autre ordinateur. Sur votre ordinateur, téléchargez un programme d'installation Chrome pour un autre ordinateur.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" site:ac.cn",
+          "title": "ดาวน์โหลดและติดตั้ง Google Chrome",
+          "url": "https://support.google.com/chrome/answer/95346?hl=th-th&co=GENIE.Platform%3DDesktop",
+          "snippet": "คุณสามารถดาวน์โหลดและติดตั้งเว็บเบราว์เซอร์ Chrome ได้โดยไม่มีค่าใช้จ่าย และใช้เพื่อท่องเว็บ ตรวจสอบข้อกำหนดของระบบในการ ...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" site:ac.cn",
+          "title": "Google Chrome'u indirme ve yükleme",
+          "url": "https://support.google.com/chrome/answer/95346?hl=tr&co=GENIE.Platform%3DDesktop",
+          "snippet": "Chrome'u yükleme Önemli: İndirmeden önce Chrome'un işletim sisteminizi desteklediğinden ve işletim sisteminizin diğer tüm sistem gereksinimlerini karşıladığından emin olun.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" \"Advanced Graph Neural Networks\"",
+          "title": "TikTok - Make Your Day",
+          "url": "https://t.tiktok.com/",
+          "snippet": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" \"Advanced Graph Neural Networks\"",
+          "title": "YouTube - YouTube",
+          "url": "https://www.youtube.com/youtube/t",
+          "snippet": "Featured Creators: @samsmith @dylanjewell5524 @HBO @justintranter @Intenseasmr @lilyloutay @MariahCarey @NTSLIVEUK @rihanna @Loumar86 @pattilabelle4153 @pattismith @semipreciousVEVO @showstudio...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" \"Advanced Graph Neural Networks\"",
+          "title": "T - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/T",
+          "snippet": "T (minuscule: t) is the twentieth letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" \"Advanced Graph Neural Networks\"",
+          "title": "Log in | TikTok",
+          "url": "https://m.tiktok.com/login",
+          "snippet": "Manage your account, check notifications, comment on videos, and more.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Bin Cui\" \"Peking University\" \"Advanced Graph Neural Networks\"",
+          "title": "Telegram: View @telegram",
+          "url": "https://t.me/telegram",
+          "snippet": "The official Telegram on Telegram. Much recursion. Very Telegram. Wow.",
+          "engine": "bing-rss"
+        }
+      ],
+      "search_errors": [],
+      "official_candidate_urls": [],
+      "rejected_urls": [
+        {
+          "url": "https://chat.openai.com/g/g-H9Whb8TFS-ikigai?via=aiinsighthub",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://android.chat.openai.com/cdn-cgi/trace",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://ios.chat.openai.com/cdn-cgi/trace",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://support.hp.com/fr-fr/drivers",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://support.hp.com/us-en/computer",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://support.hp.com/pl-pl/drivers",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://support.hp.com/fr-fr/drivers/printers",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://support.hp.com/fr-fr/help/hp-support-assistant",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://support.google.com/chrome/answer/95346?hl=hu&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/chrome/answer/95346?hl=pt-BR&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/chrome/answer/95346?hl=fr&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/chrome/answer/95346?hl=th-th&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/chrome/answer/95346?hl=tr&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://t.tiktok.com/",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://www.youtube.com/youtube/t",
+          "reason": "third-party host youtube.com"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/T",
+          "reason": "third-party host wikipedia.org"
+        },
+        {
+          "url": "https://m.tiktok.com/login",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://t.me/telegram",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        }
+      ],
+      "fetches": [],
+      "identity_match": {
+        "accepted": false,
+        "signals": [],
+        "notes": "",
+        "verification_status": "unverified"
+      },
+      "verification_decision": "no_official_url",
+      "source_urls": [
+        "https://openalex.org/A5062357883"
+      ],
+      "errors": []
+    },
+    {
+      "candidate_name": "Jian He",
+      "candidate_university": "South China Agricultural University",
+      "department": null,
+      "research_areas": [
+        "MRI in cancer diagnosis",
+        "Cholangiocarcinoma and Gallbladder Cancer Studies",
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Gastric Cancer Management and Outcomes",
+        "Nanoplatforms for cancer theranostics",
+        "Medicine",
+        "Biology",
+        "Internal medicine",
+        "Radiology",
+        "Cancer"
+      ],
+      "search_queries": [
+        "\"Jian He\" \"South China Agricultural University\" professor",
+        "\"Jian He\" \"South China Agricultural University\" site:edu.cn",
+        "\"Jian He\" \"South China Agricultural University\" site:ac.cn",
+        "\"Jian He\" \"South China Agricultural University\" \"MRI in cancer diagnosis\""
+      ],
+      "search_results": [
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" professor",
+          "title": "ARY PLUS - A Video Streaming Portal",
+          "url": "https://aryplus.tv/en",
+          "snippet": "ARYPLUS.tv is a video streaming platform, where you can watch all dramas, comedy shows, tv shows like jeeto pakistan, latest news about sports, video songs and trailers of all hit pakistani movies and much more in HD Quality.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" professor",
+          "title": "ARY PLUS - Official App Download | Watch Dramas & Movies",
+          "url": "https://www.aryplus.com.pk/",
+          "snippet": "Download the official ARY Plus app to watch trending Pakistani dramas, blockbuster movies & live TV in Full HD. Download now for android and iOS.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" professor",
+          "title": "ARY PLUS - Download Apps",
+          "url": "https://aryplus.tv/download-apps",
+          "snippet": "ARYPLUS.tv is a video streaming platform, where you can watch all dramas, comedy shows, tv shows like jeeto pakistan, latest news about sports, video songs and trailers of all hit pakistani movies and much more in HD Quality.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" professor",
+          "title": "ARY Plus – Watch Pakistani Dramas, Shows, Movies & Live TV",
+          "url": "https://aryplus.net.pk/",
+          "snippet": "ARY Plus – Watch Pakistani Dramas, Shows, Movies & Live TV If you're also a fan of ARY Plus dramas and shows and you can't find any new dramas, episodes, or telefilms from this channel on YouTube, then you don't have to worry at all, because now you can watch your favorite actors, heroes, and heroines' hit dramas and reality shows completely free on this platform.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" professor",
+          "title": "ARY Plus - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.release.arylive&hl=en-GB",
+          "snippet": "ARY Plus is your destination for premium on-demand and live entertainment. Watch what you love, your way. Discover a powerful mix of hit dramas, exclusive originals, live sports, and short-form...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" site:edu.cn",
+          "title": "Gothic fonts | dafont.com",
+          "url": "https://www.dafont.com/mtheme.php?id=4",
+          "snippet": "Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" site:edu.cn",
+          "title": "Top | dafont.com",
+          "url": "https://www.dafont.com/top.php",
+          "snippet": "Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" site:edu.cn",
+          "title": "有问题，就会有答案 - 知乎",
+          "url": "https://www.zhihu.com/creator",
+          "snippet": "北京智者天下科技有限公司 知乎专栏 圆桌 发现 移动应用 联系我们 来知乎工作 注册机构号 Investor Relations",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" site:edu.cn",
+          "title": "有没有什么好的上班看小说神器,上班摸鱼那种? - 知乎",
+          "url": "https://www.zhihu.com/question/458198598",
+          "snippet": "上班摸鱼的人很多,但是有什么好用的摸鱼神器呢?",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" site:edu.cn",
+          "title": "TikTok 45.4.3 抓包之双网络栈证书校验分析 - 吾爱破解 - 52pojie.cn",
+          "url": "https://www.52pojie.cn/thread-2111184-1-1.html",
+          "snippet": "工具链：google px4真机、proxypin 1.2.7、IDA 9.0。某海外社交app。先hook下connect函数，看下app使用的网络请求库有哪些。。可以看到网络请求是从libsscronet,so ...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" site:ac.cn",
+          "title": "تسجيل الدخول إلى Gmail",
+          "url": "https://support.google.com/mail/answer/8494?hl=ar&co=GENIE.Platform%3DDesktop",
+          "snippet": "تسجيل الدخول إلى Gmail لفتح Gmail، يمكنك تسجيل الدخول من جهاز كمبيوتر أو إضافة حسابك إلى تطبيق Gmail على هاتفك أو جهازك اللوحي. بعد تسجيل الدخول، افتح بريدك الوارد للاطّلاع على الرسائل الإلكترونية.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" site:ac.cn",
+          "title": "Inicie sessão no Gmail - Computador - Gmail Ajuda",
+          "url": "https://support.google.com/mail/answer/8494?hl=pt&co=GENIE.Platform%3DDesktop",
+          "snippet": "Inicie sessão no Gmail Para abrir o Gmail, pode iniciar sessão a partir de um computador ou adicionar a sua conta à aplicação Gmail no telemóvel ou no tablet. Após iniciar sessão, verifique o correio ao abrir a caixa de entrada.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" site:ac.cn",
+          "title": "Accedere a Gmail - Computer - Guida di Gmail - Google Help",
+          "url": "https://support.google.com/mail/answer/8494?hl=it&co=GENIE.Platform%3DDesktop",
+          "snippet": "Apri Gmail sul computer. Inserisci l'indirizzo email o il numero di telefono e la password del tuo Account Google. Se le informazioni sono già inserite e devi accedere a un altro account, fai clic su Utilizza un altro account. Se viene visualizzata una pagina con informazioni su Gmail anziché la pagina di accesso, fai clic su Accedi in alto a destra.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" site:ac.cn",
+          "title": "Logga in på Gmail",
+          "url": "https://support.google.com/mail/answer/8494?hl=sv&co=GENIE.Platform%3DDesktop",
+          "snippet": "Logga in på Gmail Öppna Gmail genom att logga in på datorn eller lägga till kontot i Gmail-appen på telefonen eller surfplattan. När du har loggat in kan du öppna inkorgen och läsa e-posten.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" site:ac.cn",
+          "title": "In Gmail anmelden",
+          "url": "https://support.google.com/mail/answer/8494?hl=de&co=GENIE.Platform%3DDesktop",
+          "snippet": "In Gmail anmelden Um Gmail zu öffnen, können Sie sich über einen Computer anmelden oder Ihr Konto in der Gmail App auf Ihrem Smartphone oder Tablet hinzufügen. Melden Sie sich an und öffnen Sie den Posteingang, um Ihre E-Mails zu prüfen.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Jian He\" \"South China Agricultural University\" \"MRI in cancer diagnosis\"",
+          "title": "google mail",
+          "url": "https://mail.google.com/mail?hl=de",
+          "snippet": "We would like to show you a description here but the site won’t allow us.",
+          "engine": "bing-rss"
+        }
+      ],
+      "search_errors": [],
+      "official_candidate_urls": [],
+      "rejected_urls": [
+        {
+          "url": "https://aryplus.tv/en",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://www.aryplus.com.pk/",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://aryplus.tv/download-apps",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://aryplus.net.pk/",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.release.arylive&hl=en-GB",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://www.dafont.com/mtheme.php?id=4",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://www.dafont.com/top.php",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://www.zhihu.com/creator",
+          "reason": "third-party host zhihu.com"
+        },
+        {
+          "url": "https://www.zhihu.com/question/458198598",
+          "reason": "third-party host zhihu.com"
+        },
+        {
+          "url": "https://www.52pojie.cn/thread-2111184-1-1.html",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://support.google.com/mail/answer/8494?hl=ar&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/mail/answer/8494?hl=pt&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/mail/answer/8494?hl=it&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/mail/answer/8494?hl=sv&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/mail/answer/8494?hl=de&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://mail.google.com/mail?hl=de",
+          "reason": "third-party host google.com"
+        }
+      ],
+      "fetches": [],
+      "identity_match": {
+        "accepted": false,
+        "signals": [],
+        "notes": "",
+        "verification_status": "unverified"
+      },
+      "verification_decision": "no_official_url",
+      "source_urls": [
+        "https://openalex.org/A5100609364"
+      ],
+      "errors": []
+    },
+    {
+      "candidate_name": "Zhihong Deng",
+      "candidate_university": "Beijing Institute of Technology",
+      "department": null,
+      "research_areas": [
+        "Inertial Sensor and Navigation",
+        "Target Tracking and Data Fusion in Sensor Networks",
+        "Topic Modeling",
+        "Robotics and Sensor-Based Localization",
+        "Indoor and Outdoor Localization Technologies",
+        "Computer science",
+        "Artificial intelligence",
+        "Mathematics",
+        "Physics",
+        "Quantum mechanics"
+      ],
+      "search_queries": [
+        "\"Zhihong Deng\" \"Beijing Institute of Technology\" professor",
+        "\"Zhihong Deng\" \"Beijing Institute of Technology\" site:edu.cn",
+        "\"Zhihong Deng\" \"Beijing Institute of Technology\" site:ac.cn",
+        "\"Zhihong Deng\" \"Beijing Institute of Technology\" \"Inertial Sensor and Navigation\""
+      ],
+      "search_results": [
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" professor",
+          "title": "google mail",
+          "url": "https://mail.google.com/mail?hl=de",
+          "snippet": "We would like to show you a description here but the site won’t allow us.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" site:edu.cn",
+          "title": "一个方框内有个勾（☑）怎么打出这符号_百度知道",
+          "url": "https://zhidao.baidu.com/question/136956635.html",
+          "snippet": "一个方框内有个勾（☑）怎么打出这符号在Word文档中，如何输入像这样可以打勾打叉的方框呢？有不止一种方法能够输入这样的方框，一起来学习一下。",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" site:edu.cn",
+          "title": "知乎 - 有问题，就会有答案",
+          "url": "https://www.zhihu.com/",
+          "snippet": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视 ...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" site:edu.cn",
+          "title": "百度知道 - 全球领先中文互动问答平台",
+          "url": "https://zhidao.baidu.com/",
+          "snippet": "百度知道是全球领先的中文问答互动平台，每天为数亿网民答疑解惑。百度知道通过AI技术实现智能检索和智能推荐，让您的每个疑问都能够快速获得有效解答。",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" site:edu.cn",
+          "title": "2026年 9月 CPU天梯图（更新250/270K Plus&9850X3D）",
+          "url": "https://www.zhihu.com/tardis/zm/art/280070583",
+          "snippet": "CPU天梯图更注重综合性能，只具有参考意义，选择CPU要根据需求选择。 生产力用户更偏重多核性能，可以参考综合性能天梯图 游戏用户更偏重单核性能，综合性能天梯图参考意义不大 桌面端CPU游戏性能排名：",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" site:edu.cn",
+          "title": "Ciallo～ (∠・ω< )⌒★是什么意思?_百度知道",
+          "url": "https://zhidao.baidu.com/question/722732521501558365.html",
+          "snippet": "Ciallo～ (∠・ω< )⌒★是什么意思?探秘Ciallo的魅力：不只是口头禅的艺术在社交场合中，有时一句简单的问候语就能传达出无尽的亲切与可爱。Ciallo，这个看似简单却充满魔力的词汇，正是因幡巡的标志性口头",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" site:ac.cn",
+          "title": "Sign in to GitHub · GitHub",
+          "url": "https://github.com/login",
+          "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" site:ac.cn",
+          "title": "Reddit - Dive into anything",
+          "url": "https://www.reddit.com/",
+          "snippet": "Reddit is a network of communities where people can dive into their interests, hobbies and passions. There's a community for whatever you're interested in on Reddit.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" site:ac.cn",
+          "title": "知乎 - 有问题，就会有答案",
+          "url": "https://www.zhihu.com/",
+          "snippet": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视 ...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" site:ac.cn",
+          "title": "GitHub - 0xk1h0/ChatGPT_DAN: ChatGPT DAN, Jailbreaks prompt",
+          "url": "https://github.com/0xk1h0/ChatGPT_DAN",
+          "snippet": "ChatGPT DAN, Jailbreaks prompt. Contribute to 0xk1h0/ChatGPT_DAN development by creating an account on GitHub.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" site:ac.cn",
+          "title": "r/all - Reddit",
+          "url": "https://www.reddit.com/r/all/",
+          "snippet": "Today's top content from hundreds of thousands of Reddit communities.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" \"Inertial Sensor and Navigation\"",
+          "title": "Simak Cara Melakukan Pengajuan refund Agoda - forums.fast.ai",
+          "url": "https://forums.fast.ai/t/simak-cara-melakukan-pengajuan-refund-agoda/124414",
+          "snippet": "Untuk melakukan refund pada pesanan Agoda yang berstatus non-refundable (tidak bisa dibatalkan), Anda harus menghubungi pihak Agoda di nomor 0821 2121 142 atau hotel secara langsung untuk bantuan,",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" \"Inertial Sensor and Navigation\"",
+          "title": "I got stuck rebuilding fastai's Learner - Deep Learning - fast.ai ...",
+          "url": "https://forums.fast.ai/t/i-got-stuck-rebuilding-fastais-learner/124394",
+          "snippet": "I could understand the training loop while reading chapter 4, but I could not reconstruct it from a blank notebook. The course teaches it bottom-up; I naturally build software top-down.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" \"Inertial Sensor and Navigation\"",
+          "title": "I stopped guessing the learning rate - Deep Learning - fast.ai Course ...",
+          "url": "https://forums.fast.ai/t/i-stopped-guessing-the-learning-rate/124170",
+          "snippet": "Home Categories Guidelines Terms of Service Privacy Policy Powered by Discourse, best viewed with JavaScript enabled",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" \"Inertial Sensor and Navigation\"",
+          "title": "Latest fastai topics - fast.ai Course Forums",
+          "url": "https://forums.fast.ai/c/fastai-users/37",
+          "snippet": "This is for help with installing and using the fastai library, for any level of user.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhihong Deng\" \"Beijing Institute of Technology\" \"Inertial Sensor and Navigation\"",
+          "title": "Deep Learning, Round 4 - Part 1 (2019) - fast.ai Course Forums",
+          "url": "https://forums.fast.ai/t/deep-learning-round-4/124095",
+          "snippet": "After failing to learn deep learning three times, I’ve finally found the right approach.",
+          "engine": "bing-rss"
+        }
+      ],
+      "search_errors": [],
+      "official_candidate_urls": [],
+      "rejected_urls": [
+        {
+          "url": "https://mail.google.com/mail?hl=de",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://zhidao.baidu.com/question/136956635.html",
+          "reason": "third-party host baidu.com"
+        },
+        {
+          "url": "https://www.zhihu.com/",
+          "reason": "third-party host zhihu.com"
+        },
+        {
+          "url": "https://zhidao.baidu.com/",
+          "reason": "third-party host baidu.com"
+        },
+        {
+          "url": "https://www.zhihu.com/tardis/zm/art/280070583",
+          "reason": "third-party host zhihu.com"
+        },
+        {
+          "url": "https://zhidao.baidu.com/question/722732521501558365.html",
+          "reason": "third-party host baidu.com"
+        },
+        {
+          "url": "https://github.com/login",
+          "reason": "third-party host github.com"
+        },
+        {
+          "url": "https://www.reddit.com/",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://github.com/0xk1h0/ChatGPT_DAN",
+          "reason": "third-party host github.com"
+        },
+        {
+          "url": "https://www.reddit.com/r/all/",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://forums.fast.ai/t/simak-cara-melakukan-pengajuan-refund-agoda/124414",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://forums.fast.ai/t/i-got-stuck-rebuilding-fastais-learner/124394",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://forums.fast.ai/t/i-stopped-guessing-the-learning-rate/124170",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://forums.fast.ai/c/fastai-users/37",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://forums.fast.ai/t/deep-learning-round-4/124095",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        }
+      ],
+      "fetches": [],
+      "identity_match": {
+        "accepted": false,
+        "signals": [],
+        "notes": "",
+        "verification_status": "unverified"
+      },
+      "verification_decision": "no_official_url",
+      "source_urls": [
+        "https://openalex.org/A5060171279"
+      ],
+      "errors": []
+    },
+    {
+      "candidate_name": "Zhi‐Hong Deng",
+      "candidate_university": "Peking University",
+      "department": null,
+      "research_areas": [
+        "Data Mining Algorithms and Applications",
+        "Rough Sets and Fuzzy Logic",
+        "Data Management and Algorithms",
+        "Web Data Mining and Analysis",
+        "Recommender Systems and Techniques",
+        "Computer science",
+        "Information retrieval",
+        "Data mining",
+        "Artificial intelligence",
+        "Mathematics"
+      ],
+      "search_queries": [
+        "\"Zhi‐Hong Deng\" \"Peking University\" professor",
+        "\"Zhi‐Hong Deng\" \"Peking University\" site:edu.cn",
+        "\"Zhi‐Hong Deng\" \"Peking University\" site:ac.cn",
+        "\"Zhi‐Hong Deng\" \"Peking University\" \"Data Mining Algorithms and Applications\""
+      ],
+      "search_results": [
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" professor",
+          "title": "Claude",
+          "url": "https://claude.com/",
+          "snippet": "What is Claude and how does it work? Claude is an artificial intelligence, trained by Anthropic using Constitutional AI to be safe, accurate, and secure — the trusted assistant for you to do your best work.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" professor",
+          "title": "Sign in - Claude",
+          "url": "https://claude.ai/",
+          "snippet": "Claude Platform Overview Developer docs Pricing Ecosystem Marketplace Claude on AWS Google Cloud’s Vertex AI Microsoft Foundry Regional compliance Console login Resources Blog Claude partner network Community Connectors Courses Customer stories Engineering at Anthropic Events Plugins Powered by Claude Service partners Tutorials Use cases ...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" professor",
+          "title": "Download Claude | Claude by Anthropic",
+          "url": "https://claude.com/download",
+          "snippet": "Claude in Chrome is included as a connector and is ready to use when you enable it. Turn it on in any conversation and Claude can navigate, click, and fill forms in your browser from the Desktop app. Start a task without switching windows.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" professor",
+          "title": "Home \\\\ Anthropic",
+          "url": "https://www.anthropic.com/",
+          "snippet": "At Anthropic, we build AI to serve humanity’s long-term well-being. ‍ Claude Science ... Core views on AI safety ... Anthropic’s Responsible Scaling Policy ... Anthropic Academy: Build and Learn with Claude",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" professor",
+          "title": "Sign in | Claude Platform",
+          "url": "https://platform.claude.com/login",
+          "snippet": "Build on the Claude Platform Create agents and applications with frontier Claude models and managed agent infrastructure.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" site:edu.cn",
+          "title": "Kirjautuminen Gmailiin - Tietokone - Gmail Ohjeet",
+          "url": "https://support.google.com/mail/answer/8494?hl=fi&co=GENIE.Platform%3DDesktop",
+          "snippet": "Kirjaudu Gmailiin Vinkki: Jos kirjaudut sisään julkisella tietokoneella, muista kirjautua ulos ennen kuin poistut tietokoneelta. Lue lisää kirjautumisesta laitteella, joka ei ole sinun.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" site:edu.cn",
+          "title": "How to stop forwarding temp emails to my google email?",
+          "url": "https://support.google.com/mail/thread/89562367/how-to-stop-forwarding-temp-emails-to-my-google-email?hl=en",
+          "snippet": "How to stop forwarding temp emails to my google email? I noticed that people who use temp emails and sign up to social media and website are forwarded to my gmail despite there is a \" . \" missing from the email address the person used to sign up for. I wish google would not forward it or accept it in my inbox because it really is a security issue.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" site:edu.cn",
+          "title": "Strange payment to Google on my bank account",
+          "url": "https://support.google.com/mail/thread/177035216/strange-payment-to-google-on-my-bank-account?hl=en",
+          "snippet": "A Google Temporary payment of GB £1.00 has appeared on my account two months running and I have no clue what it's for! I got the first one cancelled. Does anyone have a clue what this is for and how i can stop it?",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" site:edu.cn",
+          "title": "Get started with Google Workspace Experiments - Gmail Help",
+          "url": "https://support.google.com/mail/answer/13447104?hl=en-fm",
+          "snippet": "Be 18 years or older. A personal Google Account that you manage. Workspace Experiments is not available for Google Workspace accounts. Tips: You can get access to Workspace Experiments features in some countries and languages. Learn where you can use Workspace Experiments features. To check if you have access to Workspace Experiments, look for the Gemini icon in a Workspace app like Gmail or ...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" site:edu.cn",
+          "title": "Unable to receive emails. I get a message Authentication error. Server ...",
+          "url": "https://support.google.com/mail/thread/12477918/unable-to-receive-emails-i-get-a-message-authentication-error-server-returned-error-sys-temp-s?hl=en",
+          "snippet": "Unable to receive emails. I get a message Authentication error. Server returned error \" [SYS/TEMP] S - Gmail Community Community Gmail false",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" site:ac.cn",
+          "title": "Google",
+          "url": "https://www.google.com.pk/index.html",
+          "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" site:ac.cn",
+          "title": "Google",
+          "url": "https://www.google.com/#!%20/=",
+          "snippet": "We would like to show you a description here but the site won’t allow us.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" site:ac.cn",
+          "title": "Google Chrome – Download the fast, secure browser from Google",
+          "url": "https://www.google.com/intl/en_uk/chrome/",
+          "snippet": "Get more done with the new Google Chrome. A more simple, secure and faster web browser than ever, with Google’s smarts built in. Download now.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" site:ac.cn",
+          "title": "Sign in - Google Accounts",
+          "url": "https://accounts.google.com/",
+          "snippet": "Not your computer? Use a private browsing window to sign in. Learn more about using Guest mode Next Create account",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" site:ac.cn",
+          "title": "Google - YouTube",
+          "url": "https://www.youtube.com/google",
+          "snippet": "Start building with AI Tutorials for getting started with our generative AI tools, including Google AI Studio, Nano Banana, and more.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" \"Data Mining Algorithms and Applications\"",
+          "title": "LinkedIn: Log In or Sign Up",
+          "url": "https://www.linkedin.com/",
+          "snippet": "Explore top LinkedIn content Discover relevant posts and expert insights — curated by topic and in one place.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" \"Data Mining Algorithms and Applications\"",
+          "title": "LinkedIn Login, Sign in | LinkedIn",
+          "url": "https://www.linkedin.com/login/",
+          "snippet": "Login to LinkedIn to keep in touch with people you know, share ideas, and build your career.",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" \"Data Mining Algorithms and Applications\"",
+          "title": "LinkedIn",
+          "url": "https://in.linkedin.com/company/linkedin",
+          "snippet": "Founded in 2003, LinkedIn connects the world's professionals to make them more productive and successful. With more than 1 billion members worldwide, including executives from every Fortune 500...",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" \"Data Mining Algorithms and Applications\"",
+          "title": "LinkedIn: Log In or Sign Up",
+          "url": "https://gb.linkedin.com/",
+          "snippet": "Welcome to your professional community Continue with Google Sign in with email By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy....",
+          "engine": "bing-rss"
+        },
+        {
+          "query": "\"Zhi‐Hong Deng\" \"Peking University\" \"Data Mining Algorithms and Applications\"",
+          "title": "LinkedIn",
+          "url": "https://gb.linkedin.com/company/linkedin",
+          "snippet": "Founded in 2003, LinkedIn connects the world's professionals to make them more productive and successful. With more than 1 billion members worldwide, including executives from every Fortune 500...",
+          "engine": "bing-rss"
+        }
+      ],
+      "search_errors": [],
+      "official_candidate_urls": [],
+      "rejected_urls": [
+        {
+          "url": "https://claude.com/",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://claude.ai/",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://claude.com/download",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://www.anthropic.com/",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://platform.claude.com/login",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://support.google.com/mail/answer/8494?hl=fi&co=GENIE.Platform%3DDesktop",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/mail/thread/89562367/how-to-stop-forwarding-temp-emails-to-my-google-email?hl=en",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/mail/thread/177035216/strange-payment-to-google-on-my-bank-account?hl=en",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/mail/answer/13447104?hl=en-fm",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://support.google.com/mail/thread/12477918/unable-to-receive-emails-i-get-a-message-authentication-error-server-returned-error-sys-temp-s?hl=en",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://www.google.com.pk/index.html",
+          "reason": "not an official .edu.cn or .ac.cn domain"
+        },
+        {
+          "url": "https://www.google.com/#!%20/=",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://www.google.com/intl/en_uk/chrome/",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://accounts.google.com/",
+          "reason": "third-party host google.com"
+        },
+        {
+          "url": "https://www.youtube.com/google",
+          "reason": "third-party host youtube.com"
+        },
+        {
+          "url": "https://www.linkedin.com/",
+          "reason": "third-party host linkedin.com"
+        },
+        {
+          "url": "https://www.linkedin.com/login/",
+          "reason": "third-party host linkedin.com"
+        },
+        {
+          "url": "https://in.linkedin.com/company/linkedin",
+          "reason": "third-party host linkedin.com"
+        },
+        {
+          "url": "https://gb.linkedin.com/",
+          "reason": "third-party host linkedin.com"
+        },
+        {
+          "url": "https://gb.linkedin.com/company/linkedin",
+          "reason": "third-party host linkedin.com"
+        }
+      ],
+      "fetches": [],
+      "identity_match": {
+        "accepted": false,
+        "signals": [],
+        "notes": "",
+        "verification_status": "unverified"
+      },
+      "verification_decision": "no_official_url",
+      "source_urls": [
+        "https://openalex.org/A5101810080"
+      ],
+      "errors": []
+    }
+  ],
+  "summary": {
+    "candidates_processed": 5,
+    "search_results_found": 85,
+    "official_university_urls_found": 0,
+    "pages_fetched": 0,
+    "pages_failed": 0,
+    "identity_matches": 0,
+    "potential_official_verifications": 0
+  },
+  "professors_json_sha256_after": "67f6c9101516c1ded324343046a19cf4f39393d05d0b84b87308f48382c8cef1"
+}
